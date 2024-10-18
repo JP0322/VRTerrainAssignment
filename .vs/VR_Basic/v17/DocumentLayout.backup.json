@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Unity Projects\\VR_Basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBF4DC0-64DB-337E-F177-D977BF134A8F}|Assembly-CSharp.csproj|d:\\unity\\unity projects\\vr_basic\\assets\\scripts\\firebulletonactivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBF4DC0-64DB-337E-F177-D977BF134A8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firebulletonactivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBF4DC0-64DB-337E-F177-D977BF134A8F}|Assembly-CSharp.csproj|d:\\unity\\unity projects\\vr_basic\\assets\\scripts\\grabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBF4DC0-64DB-337E-F177-D977BF134A8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\grabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBF4DC0-64DB-337E-F177-D977BF134A8F}|Assembly-CSharp.csproj|D:\\Unity\\Unity Projects\\VR_Basic\\assets\\scripts\\animatehandoninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBF4DC0-64DB-337E-F177-D977BF134A8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animatehandoninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBF4DC0-64DB-337E-F177-D977BF134A8F}|Assembly-CSharp.csproj|D:\\Unity\\Unity Projects\\VR_Basic\\assets\\scripts\\xroriginspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBF4DC0-64DB-337E-F177-D977BF134A8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\xroriginspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FireBulletOnActivate.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\VR_Basic\\Assets\\Scripts\\FireBulletOnActivate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FireBulletOnActivate.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\VR_Basic\\Assets\\Scripts\\FireBulletOnActivate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FireBulletOnActivate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:34:32.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XROriginSpawner.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\VR_Basic\\Assets\\Scripts\\XROriginSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\XROriginSpawner.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\VR_Basic\\Assets\\Scripts\\XROriginSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\XROriginSpawner.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:33:23.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimateHandOnInput.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\VR_Basic\\Assets\\Scripts\\AnimateHandOnInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimateHandOnInput.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\VR_Basic\\Assets\\Scripts\\AnimateHandOnInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimateHandOnInput.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:04:04.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GrabObject.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\VR_Basic\\Assets\\Scripts\\GrabObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GrabObject.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\VR_Basic\\Assets\\Scripts\\GrabObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GrabObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:59:54.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
