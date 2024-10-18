@@ -25,4 +25,3 @@ public class AnimateHandOnInput : MonoBehaviour
         HandAnimator.SetFloat("Grip", gripValue);
         Debug.Log(triggerValue);
     }         
-}
